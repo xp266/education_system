@@ -1,0 +1,8 @@
+/* 主样式文件 - 导入各个组件样式 */
+@import 'css/base.css';
+@import 'css/components.css';
+@import 'css/sidebar.css';
+@import 'css/header.css';
+@import 'css/chat.css';
+@import 'css/modal.css';
+@import 'css/scrollbar.css';

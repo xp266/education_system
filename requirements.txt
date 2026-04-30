@@ -1,0 +1,12 @@
+
+flask
+flask-cors
+pymysql
+python-dotenv
+requests
+
+PyPDF2
+sentence-transformers
+numpy
+torch
+transformers

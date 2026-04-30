@@ -1,0 +1,25 @@
+/* 通用组件样式 - 按钮等 */
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: translateY(-1px);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+.btn-small {
+    padding: 6px 10px;
+    font-size: 12px;
+}
